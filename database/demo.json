@@ -1,0 +1,14 @@
+{
+            "bill_no":"22",
+            "bill_from":"dhruvik",
+            "bill_to":"bhavya",
+            "your_address":"add",
+            "customer_address":"njk",
+            "date":"2023-09-06",
+            "user_id":"1",
+            "order_no":"878",
+            "item_name":"Oneplus",
+            "qty":"5",
+            "price":"30000",
+            "total_price":"150000"
+}
